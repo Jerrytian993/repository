@@ -1,3 +1,3 @@
 # repository
-tianye's repository 
+tianye's repository for sunrise sample
 
